@@ -1,7 +1,7 @@
 name: RuthlessProgramming
 favicon: null
-layout_spectrum: 0.9266796191222966
-typography_spectrum: 0.29724068148061633
+layout_spectrum: 1
+typography_spectrum: 0.30052
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#aaaaaa'
   brandStrength: 0
   lightness: 0.9830824639648199
-  saturation: 0.8277935388032347
+  saturation: 0.875
   rhythmicContrast: 0.9513619856443256
 purpose: []
